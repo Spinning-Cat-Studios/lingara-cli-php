@@ -1,0 +1,12 @@
+{
+  "name": "spinningcatstudios/lingara-cli",
+  "description": "The official Lingara command-line tool (under development).",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["lingara", "cli"],
+  "homepage": "https://getlingara.com",
+  "support": {
+    "source": "https://github.com/Spinning-Cat-Studios/lingara_cli"
+  },
+  "require": { "php": ">=8.2" }
+}
